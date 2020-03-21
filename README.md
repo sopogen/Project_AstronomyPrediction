@@ -1,10 +1,26 @@
 # Project_AstronomyPrediction
-Predict the astronomical objects with the spectrophotometric observation. (DACON competition)
+Predict the astronomical objects with the spectrophotometric observation of SDSS(Sloan Digital Sky Survey)
 
-## EDA
+## 1. Brief Data Checking
+- Data shape
+- Missing data
+- Duplicated data 
+- Brief explanation about columns
 
-## Preprocessing
+## 2. EDA
+- Target data distribution
+- 'FiberID' data distribution
+- Correlation between variables
+- Outliers
+- Data distribution without outliers
 
-## Modeling
+## 3. Preprocessing
+- Scaling
+  > Robustscaler
 
-## Stacking
+## 4. Modeling
+- Random Forest
+- LGBM
+- SVM
+
+## 5. Stacking
