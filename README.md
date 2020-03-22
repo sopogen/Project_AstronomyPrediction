@@ -1,5 +1,8 @@
 # Project_AstronomyPrediction
-Predict the astronomical objects with the spectrophotometric observation of SDSS(Sloan Digital Sky Survey)
+<p align="center">
+<img src="https://i.imgur.com/YXGSMta.jpg"></img>
+<br \>Predict the astronomical objects with the spectrophotometric observation of SDSS(Sloan Digital Sky Survey)
+
 
 ## 1. Brief Data Checking
 - Data shape
