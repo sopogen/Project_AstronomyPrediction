@@ -19,7 +19,7 @@
 
 ## 3. Preprocessing
 - Scaling
-  > Robustscaler
+  - Robustscaler
 
 ## 4. Modeling
 - Random Forest
