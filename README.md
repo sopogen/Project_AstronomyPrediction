@@ -22,7 +22,7 @@
   - Robustscaler
 
 ## 4. Modeling
-- Random Forest
+- RandomForest
 - LGBM
 - SVM
 
